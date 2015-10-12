@@ -11,12 +11,13 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=5.3.2",
-		"nette/di": "~2.3",
 		"nette/http": "~2.3",
 		"nette/security": "~2.3",
 		"doctrine/orm": "~2.5"
 	},
 	"require-dev": {
+		"nette/di": "~2.3",
+		"nette/bootstrap": "~2.3",
 		"kdyby/doctrine": "~3.0@dev"
 	},
 	"autoload": {
